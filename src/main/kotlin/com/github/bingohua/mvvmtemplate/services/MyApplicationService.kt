@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bingohua.mvvmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bingohua.mvvmtemplate.MyBundle
 
 class MyApplicationService {
 
